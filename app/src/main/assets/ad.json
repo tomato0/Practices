@@ -1,0 +1,851 @@
+{
+  "trailers": [
+    {
+      "id": 70412,
+      "movieName": "《蚁人2》新中文预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/05/01/234556.97074086_120X90X4.jpg",
+      "movieId": 228903,
+      "url": "http://vfx.mtime.cn/Video/2018/05/01/mp4/180501234723157434.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/05/01/mp4/180501234723157434.mp4",
+      "videoTitle": "蚁人2：黄蜂女现身 正式中字预告",
+      "videoLength": 140,
+      "rating": -1,
+      "type": [
+        "动作",
+        "冒险",
+        "科幻"
+      ],
+      "summary": "“情侣档”出击“笑果”不断"
+    },
+    {
+      "id": 70321,
+      "movieName": "\"侏罗纪世界2\"定档预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/24/145839.11446699_120X90X4.jpg",
+      "movieId": 225759,
+      "url": "http://vfx.mtime.cn/Video/2018/04/24/mp4/180424145052133265.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/24/mp4/180424145052133265.mp4",
+      "videoTitle": "侏罗纪世界2 中国定档版预告",
+      "videoLength": 150,
+      "rating": -1,
+      "type": [
+        "动作",
+        "冒险",
+        "科幻"
+      ],
+      "summary": "星爵领队\"恐龙救援\"行动"
+    },
+    {
+      "id": 70360,
+      "movieName": "《超人总动员2》日本预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/27/073806.55348562_120X90X4.jpg",
+      "movieId": 223686,
+      "url": "http://vfx.mtime.cn/Video/2018/04/27/mp4/180427073854894684.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/27/mp4/180427073854894684.mp4",
+      "videoTitle": "超人总动员2 日语配音版预告片",
+      "videoLength": 116,
+      "rating": -1,
+      "type": [
+        "动画",
+        "动作",
+        "冒险",
+        "喜剧",
+        "家庭",
+        "科幻"
+      ],
+      "summary": "三浦友和黑木瞳绫濑遥献声"
+    },
+    {
+      "id": 70329,
+      "movieName": "《雪怪大冒险》中文预告 ",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/25/102217.16754770_120X90X4.jpg",
+      "movieId": 251866,
+      "url": "http://vfx.mtime.cn/Video/2018/04/25/mp4/180425165752867398.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/25/mp4/180425165752867398.mp4",
+      "videoTitle": "雪怪大冒险 繁体中文剧场预告片",
+      "videoLength": 141,
+      "rating": -1,
+      "type": [
+        "动画",
+        "奇幻",
+        "喜剧",
+        "家庭"
+      ],
+      "summary": "原来喜马拉雅雪怪更害怕人类"
+    },
+    {
+      "id": 70328,
+      "movieName": "《狄仁杰之四大天王》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/24/224403.68175400_120X90X4.jpg",
+      "movieId": 232758,
+      "url": "http://vfx.mtime.cn/Video/2018/04/24/mp4/180424224506970938.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/24/mp4/180424224506970938.mp4",
+      "videoTitle": "狄仁杰之四大天王  先导预告片",
+      "videoLength": 101,
+      "rating": -1,
+      "type": [
+        "动作",
+        "悬疑",
+        "古装"
+      ],
+      "summary": "徐克打造\"天王移魂案\""
+    },
+    {
+      "id": 70320,
+      "movieName": "汤姆哈迪《毒液》中文预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/24/143014.81900863_120X90X4.jpg",
+      "movieId": 103937,
+      "url": "http://vfx.mtime.cn/Video/2018/04/24/mp4/180424143152883145.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/24/mp4/180424143152883145.mp4",
+      "videoTitle": "毒液 剧场版中文预告片",
+      "videoLength": 148,
+      "rating": -1,
+      "type": [
+        "动作",
+        "科幻",
+        "惊悚"
+      ],
+      "summary": "汤老湿恶灵附体血口舔屏"
+    },
+    {
+      "id": 70316,
+      "movieName": "《疯狂的亚洲富豪》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/24/094922.60062993_120X90X4.jpg",
+      "movieId": 233844,
+      "url": "http://vfx.mtime.cn/Video/2018/04/24/mp4/180424094729868651.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/24/mp4/180424094729868651.mp4",
+      "videoTitle": "疯狂亚洲富豪 中文预告片",
+      "videoLength": 145,
+      "rating": -1,
+      "type": [
+        "喜剧"
+      ],
+      "summary": "\"壕婆婆\"杨紫琼对决美国媳妇"
+    },
+    {
+      "id": 70282,
+      "movieName": "《死侍2》中文终极预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/20/000310.16638196_120X90X4.jpg",
+      "movieId": 231981,
+      "url": "http://vfx.mtime.cn/Video/2018/04/20/mp4/180420000326137529.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/20/mp4/180420000326137529.mp4",
+      "videoTitle": "死侍2 终极预告繁体中字版",
+      "videoLength": 143,
+      "rating": -1,
+      "type": [
+        "动作",
+        "冒险",
+        "喜剧",
+        "科幻"
+      ],
+      "summary": "死侍组X特遣队“贱意”十足"
+    },
+    {
+      "id": 70284,
+      "movieName": "丹泽尔华盛顿《制裁特攻》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/20/094548.11324514_120X90X4.jpg",
+      "movieId": 224018,
+      "url": "http://vfx.mtime.cn/Video/2018/04/20/mp4/180420094812776333.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/20/mp4/180420094812776333.mp4",
+      "videoTitle": "制裁特攻  中文先导预告片",
+      "videoLength": 152,
+      "rating": -1,
+      "type": [
+        "动作",
+        "犯罪",
+        "惊悚"
+      ],
+      "summary": "丹泽尔华盛顿怒揭惊天密谋"
+    },
+    {
+      "id": 70233,
+      "movieName": "《超人总动员2》中文预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/13/223546.53983738_120X90X4.jpg",
+      "movieId": 223686,
+      "url": "http://vfx.mtime.cn/Video/2018/04/16/mp4/180416163131879697.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/16/mp4/180416163131879697.mp4",
+      "videoTitle": "超人总动员2 中文剧场版预告片2",
+      "videoLength": 136,
+      "rating": -1,
+      "type": [
+        "动画",
+        "动作",
+        "冒险",
+        "喜剧",
+        "家庭",
+        "科幻"
+      ],
+      "summary": "女超人\"触法\"拯救世界"
+    },
+    {
+      "id": 70258,
+      "movieName": "是枝裕和《小偷家族》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/18/095437.44151601_120X90X4.jpg",
+      "movieId": 255470,
+      "url": "http://vfx.mtime.cn/Video/2018/04/18/mp4/180418095451424056.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/18/mp4/180418095451424056.mp4",
+      "videoTitle": "小偷家族 正式预告片",
+      "videoLength": 98,
+      "rating": 0,
+      "type": [
+        "剧情"
+      ],
+      "summary": "温馨家庭竟以偷窃为生"
+    },
+    {
+      "id": 70218,
+      "movieName": "《瞒天过海》中文预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/13/092215.14362217_120X90X4.jpg",
+      "movieId": 234279,
+      "url": "http://vfx.mtime.cn/Video/2018/04/13/mp4/180413100621073229.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/13/mp4/180413100621073229.mp4",
+      "videoTitle": "瞒天过海：美人计 中文剧场版预告",
+      "videoLength": 122,
+      "rating": -1,
+      "type": [
+        "动作",
+        "喜剧",
+        "犯罪",
+        "惊悚"
+      ],
+      "summary": "布洛克领衔梦幻阵容妙手夺宝"
+    },
+    {
+      "id": 70197,
+      "movieName": "《幕后玩家》终极预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/11/093131.39369106_120X90X4.jpg",
+      "movieId": 233465,
+      "url": "http://vfx.mtime.cn/Video/2018/04/11/mp4/180411093225583875.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/11/mp4/180411093225583875.mp4",
+      "videoTitle": "幕后玩家 终极预告",
+      "videoLength": 103,
+      "rating": 6.6,
+      "type": [
+        "剧情"
+      ],
+      "summary": "徐峥在新片中竟当众裸奔？"
+    },
+    {
+      "id": 70177,
+      "movieName": "斯坦森李冰冰《巨齿鲨》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/10/091837.81506550_120X90X4.jpg",
+      "movieId": 225827,
+      "url": "http://vfx.mtime.cn/Video/2018/04/10/mp4/180410091931432985.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/10/mp4/180410091931432985.mp4",
+      "videoTitle": "巨齿鲨 定档预告片",
+      "videoLength": 84,
+      "rating": -1,
+      "type": [
+        "动作",
+        "科幻",
+        "冒险",
+        "惊悚"
+      ],
+      "summary": "两人恶战史前海底巨兽"
+    },
+    {
+      "id": 70178,
+      "movieName": "《寂静之地》定档预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/10/092348.71420016_120X90X4.jpg",
+      "movieId": 250858,
+      "url": "http://vfx.mtime.cn/Video/2018/04/10/mp4/180410091947026762.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/10/mp4/180410091947026762.mp4",
+      "videoTitle": "寂静之地  中国定档预告",
+      "videoLength": 134,
+      "rating": 7.6,
+      "type": [
+        "剧情",
+        "恐怖",
+        "惊悚"
+      ],
+      "summary": "持安静才能活命"
+    },
+    {
+      "id": 70165,
+      "movieName": "《游侠索罗》正式预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/09/092826.25353569_120X90X4.jpg",
+      "movieId": 224595,
+      "url": "http://vfx.mtime.cn/Video/2018/04/09/mp4/180409104713176060.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/09/mp4/180409104713176060.mp4",
+      "videoTitle": "游侠索罗：星球大战外传 中文正式预告",
+      "videoLength": 145,
+      "rating": -1,
+      "type": [
+        "动作",
+        "科幻"
+      ],
+      "summary": "\"星战\"外传叙述英雄往事"
+    },
+    {
+      "id": 70162,
+      "movieName": "李易峰《动物世界》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/08/215943.40783776_120X90X4.jpg",
+      "movieId": 240989,
+      "url": "http://vfx.mtime.cn/Video/2018/04/08/mp4/180408220015510421.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/08/mp4/180408220015510421.mp4",
+      "videoTitle": "动物世界 “剪刀石头布”预告片",
+      "videoLength": 117,
+      "rating": -1,
+      "type": [
+        "动作",
+        "剧情",
+        "悬疑"
+      ],
+      "summary": "道格拉斯变身狠辣大boss"
+    },
+    {
+      "id": 70179,
+      "movieName": "《犬之岛》中文终极预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/10/093929.57000123_120X90X4.jpg",
+      "movieId": 237363,
+      "url": "http://vfx.mtime.cn/Video/2018/04/10/mp4/180410094013995540.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/10/mp4/180410094013995540.mp4",
+      "videoTitle": "犬之岛 中文终极预告",
+      "videoLength": 100,
+      "rating": 8.2,
+      "type": [
+        "动画",
+        "冒险",
+        "喜剧",
+        "剧情",
+        "奇幻",
+        "科幻"
+      ],
+      "summary": "众汪星人\"狗眼看世界\""
+    },
+    {
+      "id": 70260,
+      "movieName": "《脱单告急》终极预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/18/095713.56106575_120X90X4.jpg",
+      "movieId": 229652,
+      "url": "http://vfx.mtime.cn/Video/2018/04/18/mp4/180418095744002422.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/18/mp4/180418095744002422.mp4",
+      "videoTitle": "脱单告急 终极预告",
+      "videoLength": 110,
+      "rating": 5.8,
+      "type": [
+        "爱情",
+        "喜剧"
+      ],
+      "summary": "钟楚曦手把手教董子健撩妹"
+    },
+    {
+      "id": 70155,
+      "movieName": "《人类清除计划4》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/08/113626.59525304_120X90X4.jpg",
+      "movieId": 250837,
+      "url": "http://vfx.mtime.cn/Video/2018/04/08/mp4/180408113628415281.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/08/mp4/180408113628415281.mp4",
+      "videoTitle": "人类清除计划4 繁体中文预告片",
+      "videoLength": 161,
+      "rating": -1,
+      "type": [
+        "动作",
+        "惊悚",
+        "恐怖",
+        "科幻"
+      ],
+      "summary": "前所未闻的大扫荡计划"
+    },
+    {
+      "id": 70137,
+      "movieName": "《憨豆特工3》中文预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/05/164203.29024675_120X90X4.jpg",
+      "movieId": 256031,
+      "url": "http://vfx.mtime.cn/Video/2018/04/09/mp4/180409182640908509.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/09/mp4/180409182640908509.mp4",
+      "videoTitle": "憨豆特工3 中文预告片",
+      "videoLength": 150,
+      "rating": -1,
+      "type": [
+        "动作",
+        "喜剧",
+        "冒险"
+      ],
+      "summary": "憨豆遭遇VR互联网乌龙频出"
+    },
+    {
+      "id": 70135,
+      "movieName": "刘亚仁《燃烧》预告片",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/05/115431.86009824_120X90X4.jpg",
+      "movieId": 235811,
+      "url": "http://vfx.mtime.cn/Video/2018/04/05/mp4/180405114959802242.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/05/mp4/180405114959802242.mp4",
+      "videoTitle": "燃烧 预告片",
+      "videoLength": 54,
+      "rating": -1,
+      "type": [
+        "剧情",
+        "悬疑"
+      ],
+      "summary": "刘亚仁冷脸寒气逼人"
+    },
+    {
+      "id": 70121,
+      "movieName": "《派对搭讪女孩》新预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/04/075311.86187039_120X90X4.jpg",
+      "movieId": 220420,
+      "url": "http://vfx.mtime.cn/Video/2018/04/04/mp4/180404075242702787.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/04/mp4/180404075242702787.mp4",
+      "videoTitle": "如何在派对上搭讪女孩 剧场版预告片",
+      "videoLength": 141,
+      "rating": -1,
+      "type": [
+        "喜剧",
+        "音乐",
+        "爱情",
+        "科幻"
+      ],
+      "summary": "与外星人女孩谈恋爱"
+    },
+    {
+      "id": 70105,
+      "movieName": "《狂暴巨兽》“救世英雄”预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/04/02/101649.87422729_120X90X4.jpg",
+      "movieId": 225925,
+      "url": "http://vfx.mtime.cn/Video/2018/04/02/mp4/180402101657183548.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/04/02/mp4/180402101657183548.mp4",
+      "videoTitle": "狂暴巨兽 “救世英雄”版预告",
+      "videoLength": 29,
+      "rating": 7,
+      "type": [
+        "动作",
+        "冒险",
+        "科幻"
+      ],
+      "summary": "孤胆英雄如何拯救美国？"
+    },
+    {
+      "id": 70070,
+      "movieName": "《暗黑之心》先导预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/29/100303.80415179_120X90X4.jpg",
+      "movieId": 235575,
+      "url": "http://vfx.mtime.cn/Video/2018/03/29/mp4/180329100418969526.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/29/mp4/180329100418969526.mp4",
+      "videoTitle": "暗黑之心 繁体中字先导预告",
+      "videoLength": 142,
+      "rating": 0,
+      "type": [
+        "科幻",
+        "惊悚"
+      ],
+      "summary": "X战警遇上了《怪奇物语》"
+    },
+    {
+      "id": 70085,
+      "movieName": "《西部世界》第二季预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/30/100200.52542602_120X90X4.jpg",
+      "movieId": 70362,
+      "url": "http://vfx.mtime.cn/Video/2018/03/30/mp4/180330082726024070.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/30/mp4/180330082726024070.mp4",
+      "videoTitle": "西部世界 第二季终极预告",
+      "videoLength": 160,
+      "rating": 8.4,
+      "type": [
+        "科幻",
+        "西部"
+      ],
+      "summary": "机器人大开杀戒"
+    },
+    {
+      "id": 70056,
+      "movieName": "《墙上有一个钟的房子》预告片",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/28/074308.15681850_120X90X4.jpg",
+      "movieId": 251180,
+      "url": "http://vfx.mtime.cn/Video/2018/03/28/mp4/180328074208864998.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/28/mp4/180328074208864998.mp4",
+      "videoTitle": "墙上有一个钟的房子",
+      "videoLength": 129,
+      "rating": 0,
+      "type": [
+        "奇幻",
+        "惊悚",
+        "恐怖",
+        "悬疑",
+        "科幻"
+      ],
+      "summary": "大魔王大战神秘力量"
+    },
+    {
+      "id": 70022,
+      "movieName": "《泰坦》正式预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/23/204203.49139517_120X90X4.jpg",
+      "movieId": 231305,
+      "url": "http://vfx.mtime.cn/Video/2018/03/23/mp4/180323204112931136.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/23/mp4/180323204112931136.mp4",
+      "videoTitle": "电影泰坦 正式预告",
+      "videoLength": 130,
+      "rating": 5.2,
+      "type": [
+        "科幻"
+      ],
+      "summary": "人体试验！英雄变祸患"
+    },
+    {
+      "id": 70016,
+      "movieName": "《头号玩家》中国终极预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/23/115353.36011628_120X90X4.jpg",
+      "movieId": 219107,
+      "url": "http://vfx.mtime.cn/Video/2018/03/23/mp4/180323115000424089.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/23/mp4/180323115000424089.mp4",
+      "videoTitle": "头号玩家 中国独家终极预告",
+      "videoLength": 60,
+      "rating": 8.3,
+      "type": [
+        "动作",
+        "冒险",
+        "科幻"
+      ],
+      "summary": "在银幕上看高达！"
+    },
+    {
+      "id": 69983,
+      "movieName": "华语科幻《明日战记》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/21/160935.52346446_120X90X4.jpg",
+      "movieId": 225302,
+      "url": "http://vfx.mtime.cn/Video/2018/03/21/mp4/180321160816754224.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/21/mp4/180321160816754224.mp4",
+      "videoTitle": "明日战记 预告片",
+      "videoLength": 71,
+      "rating": -1,
+      "type": [
+        "动作",
+        "科幻"
+      ],
+      "summary": "古天乐领衔抵御外星生物"
+    },
+    {
+      "id": 69972,
+      "movieName": "《湮灭》中文定档预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/20/181551.13379541_120X90X4.jpg",
+      "movieId": 218264,
+      "url": "http://vfx.mtime.cn/Video/2018/03/20/mp4/180320181431579627.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/20/mp4/180320181431579627.mp4",
+      "videoTitle": "湮灭 中文定档预告",
+      "videoLength": 30,
+      "rating": 7.7,
+      "type": [
+        "冒险",
+        "剧情",
+        "奇幻",
+        "恐怖",
+        "悬疑",
+        "科幻",
+        "惊悚"
+      ],
+      "summary": "波特曼演绎“新科幻经典”"
+    },
+    {
+      "id": 69960,
+      "movieName": "《边境杀手2》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/20/095202.45279766_120X90X4.jpg",
+      "movieId": 228619,
+      "url": "http://vfx.mtime.cn/Video/2018/03/20/mp4/180320095400699597.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/20/mp4/180320095400699597.mp4",
+      "videoTitle": "边境杀手2 预告片2",
+      "videoLength": 155,
+      "rating": -1,
+      "type": [
+        "犯罪",
+        "惊悚"
+      ],
+      "summary": "德尔托罗&布洛林敌对暗涌"
+    },
+    {
+      "id": 69959,
+      "movieName": "甄子丹《大师兄》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/20/094953.31720642_120X90X4.jpg",
+      "movieId": 255708,
+      "url": "http://vfx.mtime.cn/Video/2018/03/20/mp4/180320095008387091.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/20/mp4/180320095008387091.mp4",
+      "videoTitle": "大师兄 先导预告片",
+      "videoLength": 57,
+      "rating": -1,
+      "type": [
+        "喜剧"
+      ],
+      "summary": "学生被绑架 老师出马打坏人"
+    },
+    {
+      "id": 69955,
+      "movieName": "《真三国无双》先行预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/19/191436.96163750_120X90X4.jpg",
+      "movieId": 232642,
+      "url": "http://vfx.mtime.cn/Video/2018/03/19/mp4/180319191448101009.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/19/mp4/180319191448101009.mp4",
+      "videoTitle": "真三国无双 先导预告片",
+      "videoLength": 59,
+      "rating": -1,
+      "type": [
+        "古装"
+      ],
+      "summary": "韩庚演关羽耍大刀 王凯演曹操"
+    },
+    {
+      "id": 69957,
+      "movieName": "徐峥《幕后玩家》新预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/19/205252.40618517_120X90X4.jpg",
+      "movieId": 233465,
+      "url": "http://vfx.mtime.cn/Video/2018/03/19/mp4/180319205253445662.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/19/mp4/180319205253445662.mp4",
+      "videoTitle": "幕后玩家 “金钱游戏”版预告",
+      "videoLength": 77,
+      "rating": 6.6,
+      "type": [
+        "剧情"
+      ],
+      "summary": "各方争夺20亿黑金 "
+    },
+    {
+      "id": 69941,
+      "movieName": "《复联3》中文预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/17/000642.54017130_120X90X4.jpg",
+      "movieId": 217497,
+      "url": "http://vfx.mtime.cn/Video/2018/03/18/mp4/180318171100381006.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/18/mp4/180318171100381006.mp4",
+      "videoTitle": "复仇者联盟3 中文版剧场预告片",
+      "videoLength": 143,
+      "rating": 8.5,
+      "type": [
+        "动作",
+        "冒险",
+        "奇幻",
+        "科幻"
+      ],
+      "summary": "灭霸单手碾压美队钢铁侠"
+    },
+    {
+      "id": 69903,
+      "movieName": "张家辉《沉默的证人》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/14/221454.92519141_120X90X4.jpg",
+      "movieId": 234951,
+      "url": "http://vfx.mtime.cn/Video/2018/03/14/mp4/180314221159305319.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/14/mp4/180314221159305319.mp4",
+      "videoTitle": "沉默的证人 先导预告",
+      "videoLength": 30,
+      "rating": -1,
+      "type": [
+        "动作",
+        "犯罪"
+      ],
+      "summary": "争分夺秒开启亡命游戏"
+    },
+    {
+      "id": 69890,
+      "movieName": "《神奇动物2》中文预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/14/004508.72126103_120X90X4.jpg",
+      "movieId": 232243,
+      "url": "http://vfx.mtime.cn/Video/2018/03/14/mp4/180314004557773986.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/14/mp4/180314004557773986.mp4",
+      "videoTitle": "神奇动物：格林德沃之罪 中文先导预告",
+      "videoLength": 133,
+      "rating": -1,
+      "type": [
+        "冒险",
+        "家庭",
+        "奇幻"
+      ],
+      "summary": "魔法暴击!纽特邓布利多同框"
+    },
+    {
+      "id": 69880,
+      "movieName": "《寻找罗麦》\"寻\"版预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/13/095337.91972453_120X90X4.jpg",
+      "movieId": 206330,
+      "url": "http://vfx.mtime.cn/Video/2018/03/13/mp4/180313101116602091.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/13/mp4/180313101116602091.mp4",
+      "videoTitle": "寻找罗麦  “寻”版预告片",
+      "videoLength": 63,
+      "rating": 6.4,
+      "type": [
+        "剧情"
+      ],
+      "summary": "韩庚跨越中法孤独行走"
+    },
+    {
+      "id": 69883,
+      "movieName": "《脱皮爸爸》定档预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/13/104020.69604271_120X90X4.jpg",
+      "movieId": 230021,
+      "url": "http://vfx.mtime.cn/Video/2018/03/13/mp4/180313104024836516.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/13/mp4/180313104024836516.mp4",
+      "videoTitle": "脱皮爸爸 定档预告",
+      "videoLength": 98,
+      "rating": 6.9,
+      "type": [
+        "喜剧",
+        "剧情"
+      ],
+      "summary": "吴镇宇返老还童79岁重回19岁"
+    },
+    {
+      "id": 69879,
+      "movieName": "马思纯《奇葩朵朵》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/13/100120.55137674_120X90X4.jpg",
+      "movieId": 228703,
+      "url": "http://vfx.mtime.cn/Video/2018/03/13/mp4/180313100124680295.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/13/mp4/180313100124680295.mp4",
+      "videoTitle": "奇葩朵朵 定档预告",
+      "videoLength": 74,
+      "rating": 4.7,
+      "type": [
+        "爱情",
+        "剧情"
+      ],
+      "summary": "张若昀马思纯演绎最萌智商差"
+    },
+    {
+      "id": 69862,
+      "movieName": "《环太平洋2》终极预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/12/085527.14200758_120X90X4.jpg",
+      "movieId": 195922,
+      "url": "http://vfx.mtime.cn/Video/2018/03/12/mp4/180312085931254991.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/12/mp4/180312085931254991.mp4",
+      "videoTitle": "环太平洋2 中文终极预告",
+      "videoLength": 61,
+      "rating": 6.9,
+      "type": [
+        "动作",
+        "冒险",
+        "科幻"
+      ],
+      "summary": "进化怪兽军团再度来袭"
+    },
+    {
+      "id": 69865,
+      "movieName": "《水形物语》中文预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/12/092352.56622428_120X90X4.jpg",
+      "movieId": 236214,
+      "url": "http://vfx.mtime.cn/Video/2018/03/12/mp4/180312092728707947.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/12/mp4/180312092728707947.mp4",
+      "videoTitle": "水形物语 中文版终极预告",
+      "videoLength": 108,
+      "rating": 7.6,
+      "type": [
+        "爱情",
+        "奇幻",
+        "剧情",
+        "冒险",
+        "惊悚"
+      ],
+      "summary": "“人鱼”之间跨越种族的神奇浪漫故事"
+    },
+    {
+      "id": 69863,
+      "movieName": "《头号玩家》“再续传奇”预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/12/091450.70358611_120X90X4.jpg",
+      "movieId": 219107,
+      "url": "http://vfx.mtime.cn/Video/2018/03/12/mp4/180312091535489646.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/12/mp4/180312091535489646.mp4",
+      "videoTitle": "头号玩家 “再续传奇”预告",
+      "videoLength": 30,
+      "rating": 8.3,
+      "type": [
+        "动作",
+        "冒险",
+        "科幻"
+      ],
+      "summary": "炫酷视效引发找梗狂潮"
+    },
+    {
+      "id": 69866,
+      "movieName": "《绿毛怪格林奇》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/12/093701.33564288_120X90X4.jpg",
+      "movieId": 233407,
+      "url": "http://vfx.mtime.cn/Video/2018/03/12/mp4/180312093907223589.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/12/mp4/180312093907223589.mp4",
+      "videoTitle": "绿毛怪格林奇 中文版先行预告片",
+      "videoLength": 135,
+      "rating": -1,
+      "type": [
+        "动画",
+        "喜剧",
+        "家庭",
+        "奇幻"
+      ],
+      "summary": "\"卷福\"配音 大秀捣乱功力"
+    },
+    {
+      "id": 69826,
+      "movieName": "《起跑线》定档预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/08/110652.95637891_120X90X4.jpg",
+      "movieId": 251494,
+      "url": "http://vfx.mtime.cn/Video/2018/03/08/mp4/180308110531052852.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/08/mp4/180308110531052852.mp4",
+      "videoTitle": "起跑线  定档预告",
+      "videoLength": 89,
+      "rating": 7.8,
+      "type": [
+        "剧情",
+        "喜剧"
+      ],
+      "summary": "印度择校话题引发热议"
+    },
+    {
+      "id": 69808,
+      "movieName": "《克里斯托弗罗宾》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/07/074938.91470231_120X90X4.jpg",
+      "movieId": 254191,
+      "url": "http://vfx.mtime.cn/Video/2018/03/07/mp4/180307102048642063.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/07/mp4/180307102048642063.mp4",
+      "videoTitle": "克里斯托弗·罗宾 中文先行版预告",
+      "videoLength": 74,
+      "rating": -1,
+      "type": [
+        "动画",
+        "冒险",
+        "喜剧",
+        "剧情",
+        "家庭",
+        "歌舞"
+      ],
+      "summary": "暖萌维尼慰藉人心"
+    },
+    {
+      "id": 69807,
+      "movieName": "《迷失太空》中文预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/07/073053.96538009_120X90X4.jpg",
+      "movieId": 254731,
+      "url": "http://vfx.mtime.cn/Video/2018/03/07/mp4/180307073114876395.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/07/mp4/180307073114876395.mp4",
+      "videoTitle": "迷失天空 中文正式预告",
+      "videoLength": 162,
+      "rating": -1,
+      "type": [
+        "科幻"
+      ],
+      "summary": "神秘外星生物首亮相"
+    },
+    {
+      "id": 69773,
+      "movieName": "《新欢乐满人间》预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/05/093820.39758573_120X90X4.jpg",
+      "movieId": 228392,
+      "url": "http://vfx.mtime.cn/Video/2018/03/05/mp4/180305161338131886.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/05/mp4/180305161338131886.mp4",
+      "videoTitle": "新欢乐满人间 先导预告片",
+      "videoLength": 96,
+      "rating": -1,
+      "type": [
+        "家庭",
+        "奇幻",
+        "歌舞"
+      ],
+      "summary": "孩子们的仙女保姆又回来了"
+    },
+    {
+      "id": 69777,
+      "movieName": "《纸牌屋》最终季预告",
+      "coverImg": "http://img5.mtime.cn/mg/2018/03/05/152307.38367130_120X90X4.jpg",
+      "movieId": 148234,
+      "url": "http://vfx.mtime.cn/Video/2018/03/05/mp4/180305152635162120.mp4",
+      "hightUrl": "http://vfx.mtime.cn/Video/2018/03/05/mp4/180305152635162120.mp4",
+      "videoTitle": "纸牌屋 最终季先行预告",
+      "videoLength": 30,
+      "rating": 9,
+      "type": [
+        "剧情"
+      ],
+      "summary": "克莱尔接任，美国出现女总统"
+    }
+  ]
+}
