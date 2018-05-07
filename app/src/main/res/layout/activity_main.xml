@@ -26,4 +26,13 @@
         app:layout_constraintBaseline_toBaselineOf="@+id/button_adv"
         app:layout_constraintStart_toEndOf="@+id/button_adv" />
 
+    <Button
+        android:id="@+id/button_recycle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="RecycleView"
+        app:layout_constraintBaseline_toBaselineOf="@+id/button_anim"
+        app:layout_constraintStart_toEndOf="@+id/button_anim" />
+
 </android.support.constraint.ConstraintLayout>

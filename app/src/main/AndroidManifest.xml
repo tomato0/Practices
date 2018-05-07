@@ -19,7 +19,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ad.AdActivity" />
-        <activity android:name=".animation.AnimationActivity"></activity>
+        <activity android:name=".animation.AnimationActivity" />
+        <activity android:name=".recycleview.RecycleViewActivity"></activity>
     </application>
 
 </manifest>

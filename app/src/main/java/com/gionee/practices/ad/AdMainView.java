@@ -19,7 +19,7 @@ import java.util.List;
  * function:
  */
 
-public class AdMainView implements IBaseView {
+public class AdMainView implements IBaseView, ViewPager.OnPageChangeListener {
     private static final String TAG = "AdMainView";
 
     private View mView;
@@ -27,14 +27,17 @@ public class AdMainView implements IBaseView {
     private ViewPager mViewPager;
     private List<AdEntity> mAds;
     private AdPagerAdapter mAdPagerAdapter;
+    private IndicatorView mIndicatorView;
 
     @Override
     public void initView(LayoutInflater inflater, ViewGroup viewGroup) {
         mView = inflater.inflate(R.layout.activity_ad, viewGroup);
         mViewPager = (ViewPager) mView.findViewById(R.id.ad_viewpager);
+        mIndicatorView = (IndicatorView) mView.findViewById(R.id.indicator_view);
         mAds = new ArrayList<>();
         mContext = mView.getContext();
         Log.d(TAG, "initView: " +Thread.currentThread());
+        mViewPager.addOnPageChangeListener(this);
 
     }
 
@@ -54,5 +57,21 @@ public class AdMainView implements IBaseView {
         mViewPager.setAdapter(mAdPagerAdapter);
         mViewPager.setCurrentItem(mAds.size()*10);
         Log.d(TAG, "initAd2: " +Thread.currentThread());
+    }
+
+    @Override
+    public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+
+    }
+
+    @Override
+    public void onPageSelected(int position) {
+        Log.d(TAG, "onPageSelected: " + position);
+        mIndicatorView.setSelect(position);
+    }
+
+    @Override
+    public void onPageScrollStateChanged(int state) {
+
     }
 }

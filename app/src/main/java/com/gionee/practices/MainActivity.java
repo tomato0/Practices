@@ -8,6 +8,7 @@ import android.widget.Button;
 
 import com.gionee.practices.ad.AdActivity;
 import com.gionee.practices.animation.AnimationActivity;
+import com.gionee.practices.recycleview.RecycleViewActivity;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -19,6 +20,9 @@ public class MainActivity extends AppCompatActivity {
 
     @BindView(R.id.button_anim)
     Button mButtonAnim;
+
+    @BindView(R.id.button_recycle)
+    Button mButtonRecycle;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,6 +45,11 @@ public class MainActivity extends AppCompatActivity {
     @OnClick(R.id.button_anim)
     public void onClickAnim(View view) {
         Intent intent = new Intent(this, AnimationActivity.class);
+        startActivity(intent);
+    }
+
+    public void onClickRecycle(View view) {
+        Intent intent = new Intent(this, RecycleViewActivity.class);
         startActivity(intent);
     }
 }
