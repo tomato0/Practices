@@ -9,6 +9,7 @@ import android.widget.ImageView;
 
 import com.gionee.practices.R;
 import com.gionee.practices.ad.AdEntity;
+import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
@@ -52,6 +53,8 @@ public class RecycleViewAdapter extends RecyclerView.Adapter<RecycleViewAdapter.
     @Override
     public void onBindViewHolder(RecyclerHolder holder, final int position) {
         //TODO:绑定数据
+        Picasso.get().load(mAdEntities.get(position).getImgUrl())
+                .into(holder.img);
     }
 
     @Override

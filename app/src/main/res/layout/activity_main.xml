@@ -35,4 +35,22 @@
         app:layout_constraintBaseline_toBaselineOf="@+id/button_anim"
         app:layout_constraintStart_toEndOf="@+id/button_anim" />
 
+    <Button
+        android:id="@+id/button_event"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="17dp"
+        android:text="Event"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_adv" />
+
+    <Button
+        android:id="@+id/button_rxjava"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="14dp"
+        android:text="RxJava"
+        app:layout_constraintBaseline_toBaselineOf="@+id/button_event"
+        app:layout_constraintStart_toEndOf="@+id/button_event" />
+
 </android.support.constraint.ConstraintLayout>

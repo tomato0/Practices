@@ -20,7 +20,9 @@
         </activity>
         <activity android:name=".ad.AdActivity" />
         <activity android:name=".animation.AnimationActivity" />
-        <activity android:name=".recycleview.RecycleViewActivity"></activity>
+        <activity android:name=".recycleview.RecycleViewActivity" />
+        <activity android:name=".event.EventActivity" />
+        <activity android:name=".rxjava.RxJavaActivity"></activity>
     </application>
 
 </manifest>

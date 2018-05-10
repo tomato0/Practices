@@ -8,7 +8,9 @@ import android.widget.Button;
 
 import com.gionee.practices.ad.AdActivity;
 import com.gionee.practices.animation.AnimationActivity;
+import com.gionee.practices.event.EventActivity;
 import com.gionee.practices.recycleview.RecycleViewActivity;
+import com.gionee.practices.rxjava.RxJavaActivity;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -23,6 +25,12 @@ public class MainActivity extends AppCompatActivity {
 
     @BindView(R.id.button_recycle)
     Button mButtonRecycle;
+
+    @BindView(R.id.button_event)
+    Button mButtonEvent;
+
+    @BindView(R.id.button_rxjava)
+    Button mButtonRxJava;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -48,8 +56,21 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    @OnClick(R.id.button_recycle)
     public void onClickRecycle(View view) {
         Intent intent = new Intent(this, RecycleViewActivity.class);
+        startActivity(intent);
+    }
+
+    @OnClick(R.id.button_event)
+    public void onClickEvent(View view) {
+        Intent intent = new Intent(this, EventActivity.class);
+        startActivity(intent);
+    }
+
+    @OnClick(R.id.button_rxjava)
+    public void onClickRxJava(View view) {
+        Intent intent = new Intent(this, RxJavaActivity.class);
         startActivity(intent);
     }
 }
