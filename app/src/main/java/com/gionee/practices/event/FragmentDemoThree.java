@@ -1,6 +1,7 @@
 package com.gionee.practices.event;
 
 
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -9,10 +10,10 @@ import android.view.ViewGroup;
 
 import com.gionee.practices.R;
 
-/**
+/*
  * A simple {@link Fragment} subclass.
  */
-public class FragmentDemoThree extends BaseFragment {
+public class FragmentDemoThree extends Fragment {
 
 
     public FragmentDemoThree() {
@@ -27,8 +28,4 @@ public class FragmentDemoThree extends BaseFragment {
         return inflater.inflate(R.layout.fragment_layout_three, container, false);
     }
 
-    @Override
-    public String getTitle() {
-        return "fragment 3";
-    }
 }

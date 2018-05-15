@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
+import android.os.HandlerThread;
 import android.util.Log;
 import android.widget.ImageView;
 
@@ -73,6 +74,21 @@ public class RxJavaActivity extends Activity {
 
                     }
                 });
+    }
+
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        Log.d(TAG, "onSaveInstanceState: ");
+        outState.putInt("save", 1);
+        //在onStop之前调用，可用于保存数据
+        super.onSaveInstanceState(outState);
+    }
+
+    @Override
+    protected void onRestoreInstanceState(Bundle savedInstanceState) {
+        //在onStart之后调用，用于获取onSaveInstanceState保存的数据
+        Log.d(TAG, "onRestoreInstanceState: " + savedInstanceState.getInt("save"));
+        super.onRestoreInstanceState(savedInstanceState);
     }
 
     @Override
