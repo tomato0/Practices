@@ -79,7 +79,8 @@ public class RefreshLayout extends ViewGroup {
         Log.d(TAG, "onTouchEvent: " + action);
         switch (action) {
             case MotionEvent.ACTION_DOWN:
-                mLastY = event.getRawY();
+                mLastY = event.getY();
+                Log.d(TAG, "down: " + mLastY);
                 break;
             case MotionEvent.ACTION_MOVE:
                 float currentY = event.getY();
@@ -99,15 +100,19 @@ public class RefreshLayout extends ViewGroup {
 
     @Override
     public boolean onInterceptTouchEvent(MotionEvent ev) {
+        Log.d(TAG, "left: " + mHeadRefreshView.getLeft());
+        Log.d(TAG, "top: " + mHeadRefreshView.getTop());
+        Log.d(TAG, "right: " + mHeadRefreshView.getRight());
+        Log.d(TAG, "bottom: " + mHeadRefreshView.getBottom());
         Log.d(TAG, "onInterceptTouchEvent: "+ ev);
         int action = ev.getAction();
         switch (action) {
             case MotionEvent.ACTION_DOWN:
-                break;
+                return isTop(ev);
             case MotionEvent.ACTION_MOVE:
-                Log.d(TAG, "onInterceptTouchEvent: "+ isTop());
+                Log.d(TAG, "onInterceptTouchEvent: "+ isTop(ev));
                 Log.d(TAG, "onInterceptTouchEvent b: " + getChildAt(1).getY());
-                return false;
+                return isTop(ev);
             case MotionEvent.ACTION_UP:
                 break;
             case MotionEvent.ACTION_CANCEL:
@@ -116,9 +121,12 @@ public class RefreshLayout extends ViewGroup {
         return false;
     }
 
-    private boolean isTop() {
+    private boolean isTop(MotionEvent e) {
 
         Log.d(TAG, "isTop: "+getScrollY());
-        return false;
+        float v = e.getY() - e.getRawY();
+        Log.d(TAG, "isTop Y: " + getTop());
+        Log.d(TAG, "isTop RY: " + e.getRawY());
+        return getScrollY() > 0;
     }
 }

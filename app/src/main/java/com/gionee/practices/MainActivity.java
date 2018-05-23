@@ -16,7 +16,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     @BindView(R.id.button_adv)
     Button mButton_AD;
 
@@ -36,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        mButton_AD = (Button) findViewById(R.id.button_adv);
+        mButton_AD.setOnClickListener(this);
         ButterKnife.bind(this);
     }
 
@@ -72,5 +74,15 @@ public class MainActivity extends AppCompatActivity {
     public void onClickRxJava(View view) {
         Intent intent = new Intent(this, RxJavaActivity.class);
         startActivity(intent);
+    }
+
+    @Override
+    public void onClick(View v) {
+        switch (v.getId()) {
+            case R.id.button_adv:
+                Intent intent = new Intent(this, AdActivity.class);
+                startActivity(intent);
+                break;
+        }
     }
 }

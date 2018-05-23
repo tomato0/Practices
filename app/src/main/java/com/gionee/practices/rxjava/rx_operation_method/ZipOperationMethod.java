@@ -42,6 +42,9 @@ public class ZipOperationMethod {
             }
         });
 
+        /*
+        * 将多个事件流进行处理，转化为某一个事件流输出
+        */
         Observable.zip(observable1, observable2, new BiFunction<Integer, Integer, Integer>() {
             @Override
             public Integer apply(Integer integer1, Integer integer2) throws Exception {

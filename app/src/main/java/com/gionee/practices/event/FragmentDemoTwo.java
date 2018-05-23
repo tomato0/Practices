@@ -8,8 +8,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import com.gionee.practices.R;
+import com.gionee.practices.db.SQLAsyncTask;
+import com.gionee.practices.db.SQLiteOperator;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -64,6 +67,7 @@ public class FragmentDemoTwo extends BaseFragment {
             @Override
             public void onComplete() {
                 showWordsData();
+                cacheWordsData();
             }
         });
     }
@@ -71,6 +75,20 @@ public class FragmentDemoTwo extends BaseFragment {
     private void showWordsData() {
         WordsAdapter adapter = new WordsAdapter(getContext(), mWords);
         mListView.setAdapter(adapter);
+    }
+
+    private void cacheWordsData() {
+        new SQLAsyncTask<Long>() {
+            @Override
+            public Long doInBackground() {
+                return new SQLiteOperator(getContext()).insert(mWords);
+            }
+
+            @Override
+            public void onPostExecute(Long result) {
+                Toast.makeText(getContext(), "insert: " + String.valueOf(result), Toast.LENGTH_SHORT).show();
+            }
+        }.execute();
     }
 
     @Override

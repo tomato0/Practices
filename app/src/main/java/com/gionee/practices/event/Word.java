@@ -26,4 +26,12 @@ public class Word {
     public void setEnglish(String english) {
         this.english = english;
     }
+
+    @Override
+    public String toString() {
+        return "Word{" +
+                "chinese='" + chinese + '\'' +
+                ", english='" + english + '\'' +
+                '}';
+    }
 }

@@ -1,6 +1,7 @@
 package com.gionee.practices.rxjava;
 
 import android.app.Activity;
+import android.content.res.Configuration;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
@@ -92,7 +93,16 @@ public class RxJavaActivity extends Activity {
     }
 
     @Override
+    public void onConfigurationChanged(Configuration newConfig) {
+        super.onConfigurationChanged(newConfig);
+    }
+
+    @Override
     protected void onDestroy() {
         super.onDestroy();
+    }
+
+    @interface e{
+        String key() default "";
     }
 }
